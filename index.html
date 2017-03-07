@@ -1,0 +1,50 @@
+<html lang="en" ng-app="oiiApp">
+
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/page.css">
+		<link rel="stylesheet" href="css/stub_color.css">
+		<link rel="stylesheet" href="pages/secret/timer.css">
+		<script src="node_modules/angular/angular.min.js"></script>
+		<script src="node_modules/angular-route/angular-route.min.js"></script>
+		<script src="app.js"></script>
+	</head>
+
+	<body ng-controller="oiiController">
+		<div class='wrapper'>
+			<!-- Header -->
+			<div class='header'>
+				<div class='h_nav'>
+					<a href='/#!/' class='h_title'>Outer Ish Index</a>
+					<ul class='h_menu'>
+						<li class='h_menuItem'><a href='/#!/about' id='about'>About</a></li>
+						<li class='h_menuItem'><a href='/#!/projects' id='projects'>Projects</a></li>
+						<li class='h_menuItem'><a href='/#!/thoughts' id='thoughts'>Thoughts</a></li>
+						<li class='h_menuItem'><a href='/#!/collab' id='collab'>Collaborators</a></li>
+					</ul>
+				</div>
+				<div class='h_out'>
+					<a class='h_outItem' href='mailto:femi96@mit.edu' target="_blank" title="femi96@mit.edu">Email</a>
+					<a class='h_outItem' href='https://twitter.com/imef96' target="_blank" title="twitter.com/imef96">Twitter</a>
+					<a class='h_outItem' href='https://github.com/femi96' target="_blank" title="github.com/femi96">Github</a>
+				</div>
+			</div>
+
+			<!-- Wrapper -->
+			<div class='content'>
+				<div ng-view></div>
+			</div>
+
+			<!-- Footer -->
+			<div class='footer'>
+				<a href={{secret()}} class='f_divide'>---(^u^)---</a>
+				<div class='f_text'>
+					<div ng-repeat="item in quote">{{item}}</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+
+</html>

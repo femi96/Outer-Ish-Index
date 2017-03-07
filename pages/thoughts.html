@@ -1,0 +1,21 @@
+<head>
+	<title>Outer Ish Index | Thoughts</title>
+</head>
+
+<body>
+	<div class='c_title'>
+		<div class='c_t_title'>Thoughts</div>
+		<div class='c_t_sub'>A Work in Progress</div>
+	</div>
+
+	<!-- Thoughts -->
+
+	<div class='c_stubs'>
+		<a class='c_stub' ng-repeat="item in stubThou" href={{item.link}} id={{item.id}}>
+			<div class='c_s_date'>{{item.date}}</div>
+			<div class='c_s_title'>{{item.title}}</div>
+			<div class='c_s_sub'>{{item.sub}}</div>
+			<div class='c_s_desc'>{{item.desc}}</div>
+		</a>
+	</div>
+</body>

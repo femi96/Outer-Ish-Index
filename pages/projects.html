@@ -1,0 +1,23 @@
+<head>
+	<title>Outer Ish Index | Projects</title>
+</head>
+
+<body>
+	<div class='c_title'>
+		<div class='c_t_title'>Projects</div>
+		<div class='c_t_sub'>Creations and Contributions</div>
+	</div>
+	
+	<p class='c_para'>I’m currently working salvaging old projects for proper documentation on this site.</p>
+
+	<!-- Projects -->
+
+	<div class='c_stubs'>
+		<a class='c_stub' ng-repeat="item in stubProj" href={{item.link}} id={{item.id}}>
+			<div class='c_s_date'>{{item.date}}</div>
+			<div class='c_s_title'>{{item.title}}</div>
+			<div class='c_s_sub'>{{item.sub}}</div>
+			<div class='c_s_desc'>{{item.desc}}</div>
+		</a>
+	</div>
+</body>

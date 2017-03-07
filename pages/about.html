@@ -1,0 +1,87 @@
+<head>
+	<title>Outer Ish Index | About</title>
+</head>
+
+<body>
+	<div class='c_title'>
+		<div class='c_t_title'>About</div>
+		<div class='c_t_sub'>Who am I?</div>
+	</div>
+	
+	<p class='c_para'>I’m Femi Oladipupo, an MIT Junior pursuing a Bachelor of Science in Engineering as Recommended by the Department of Mechanical Engineering (Course 2A) with a concentration in Computer Science (Course 6-3). In addition, I’m pursuing a minor in Comparative Media Studies (Course CMS).</p>
+
+	<!-- Work -->
+
+	<div class='c_stitle'>
+		<div class='c_st_title'>Work</div>
+		<div class='c_st_sub'>My dayman activities</div>
+	</div>
+
+	<div class='c_tpara'>
+		<a class='c_tp_title' href='http://viral.media.mit.edu/' target="_blank">MIT Media Lab: Viral Communications</a>
+		<p class='c_tp_para'>During the summer of 2015, I began work as an undergraduate researcher at the MIT Media Lab. I was a member of the Viral Communications group as a part of MIT’s Undergraduate Research Opportunities Program. During that summer and the summer following, I worked on several projects within the group.</p>
+	</div>
+
+	<div class='c_stubs'>
+		<a class='c_stub' ng-repeat="item in stubWork" href={{item.link}}>
+			<div class='c_s_date'>{{item.date}}</div>
+			<div class='c_s_title'>{{item.title}}</div>
+			<div class='c_s_sub'>{{item.sub}}</div>
+			<div class='c_s_desc'>{{item.desc}}</div>
+		</a>
+	</div>
+
+	<!-- Skills -->
+
+	<div class='c_stitle'>
+		<div class='c_st_title'>Skills</div>
+		<div class='c_st_sub'>My dayman abilities</div>
+	</div>
+
+	<div class='c_linklist'>
+		<div class='c_ll_title'>Program Proficiencies</div>
+		<ul class='c_ll_list'>
+			<li class='c_ll_item' ng-repeat="item in listProg"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
+		</ul>
+	</div>
+
+	<div class='c_linklist'>
+		<div class='c_ll_title'>Language Proficiencies</div>
+		<ul class='c_ll_list'>
+			<li class='c_ll_item' ng-repeat="item in listLang"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
+		</ul>
+	</div>
+
+	<div class='c_linklist'>
+		<div class='c_ll_title'>Frameworks &amp; Other Proficiencies</div>
+		<ul class='c_ll_list'>
+			<li class='c_ll_item' ng-repeat="item in listFram"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
+		</ul>
+	</div>
+
+	<div class='c_stitle'>
+		<div class='c_st_title'>Courses</div>
+		<div class='c_st_sub'>Classes taken at MIT</div>
+	</div>
+
+	<div class='c_linklist'>
+		<div class='c_ll_title'>Freshman Year</div>
+		<ul class='c_ll_list'>
+			<li class='c_ll_item' ng-repeat="item in listCourse1"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
+		</ul>
+	</div>
+
+	<div class='c_linklist'>
+		<div class='c_ll_title'>Sophomore Year</div>
+		<ul class='c_ll_list'>
+			<li class='c_ll_item' ng-repeat="item in listCourse2"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
+		</ul>
+	</div>
+
+	<div class='c_linklist'>
+		<div class='c_ll_title'>Junior Year</div>
+		<ul class='c_ll_list'>
+			<li class='c_ll_item' ng-repeat="item in listCourse3"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
+		</ul>
+	</div>
+</body>
