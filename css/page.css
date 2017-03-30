@@ -62,7 +62,7 @@
 }
 .c_ipara_w:hover{
 	background-color: #fff;
-	border-color: #000;
+	border-color: #EFEFEF;
 }
 	.c_ipara{
 		margin: 16px 0px;
@@ -146,7 +146,7 @@
 }
 .c_stub:hover{
 	background-color: #fff;
-	border-color: #000;
+	border-color: #EFEFEF;
 }
 	.c_s_date{
 		float: right;
@@ -252,5 +252,14 @@
 		}
 		.c_c_listItem:hover{
 			background-color: #fff;
-			border-color: #000;
+			border-color: #EFEFEF;
 		}
+
+/*Mobile CSS*/
+@media(max-width: 1000px){
+	.c_stub{width: calc(100% - 88px)}
+	.c_s_title{margin-right: 30%;}
+	.c_collab{width: calc(100% - 88px)}
+	.c_c_name{margin-right: 30%;}
+	.c_c_sub{margin-right: 00%;}
+}

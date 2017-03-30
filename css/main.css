@@ -5,11 +5,12 @@
 /*@font-face {font-family: Cabin; src: url('/fonts/Cabin-Regular.ttf') format('truetype'); }*/
 /*@font-face {font-family: JosefinSans; src: url('/fonts/JosefinSans-Regular.ttf') format('truetype'); }*/
 /*@font-face {font-family: JosefinSans; src: url('/fonts/JosefinSans-Bold.ttf') format('truetype'); font-weight: 700; }*/
+/*@font-face {font-family: Varela; src: url('/fonts/VarelaRound-Regular.otf') format('opentype'); }*/
 
 body{
 	font-family: Raleway;
 	color: #333;
-	background-color: #fcfcfc;
+	background-color: #FDFDFD;
 	margin: 0px;
 }
 a{
@@ -23,9 +24,13 @@ a:hover{
 
 /*Wrapper CSS*/
 .wrapper{
-	margin: 100px auto 60px auto;
+	margin: 0px auto 0px auto;
+	padding: 100px 40px 60px 40px;
 
 	max-width: 800px;
+	background-color: #fcfcfc;
+	border-right: 1px solid #EFEFEF;
+	border-left: 1px solid #EFEFEF;
 }
 
 /*Header CSS*/
@@ -86,3 +91,13 @@ a:hover{
 		font-size: 17px;
 		line-height: 26px;
 	}
+
+/*Mobile CSS*/
+@media(max-width: 964px){
+	.wrapper{width: calc(100% - 148px)}}
+@media(max-width: 800px){
+	.h_nav{text-align: center; width: 100%;}
+	/*.h_menu{font-size: 20px;}*/
+	.h_menuItem{display: inline-block; margin: 0px 8px 0px 8px;}
+	.h_out{display: inline-block; text-align: center; width: 100%; margin-top: 30px; font-size: 20px;}
+}
