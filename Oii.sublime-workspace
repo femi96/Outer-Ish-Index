@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"front",
+				"frontAngle"
+			],
+			[
+				"targe",
+				"targetMon"
+			],
+			[
+				"tar",
+				"targetMon"
+			],
+			[
+				"happ",
+				"happyTemp"
+			],
+			[
+				"Mons",
+				"MonsterBehaviour"
+			],
+			[
+				"curre",
+				"currentBehaviour"
+			],
+			[
+				"net",
+				"networkManager"
+			],
+			[
+				"set",
+				"SetGrowthStage"
+			],
+			[
+				"units",
+				"units"
+			],
+			[
+				"new",
+				"newStage"
+			],
+			[
+				"prod",
+				"produceIds"
+			],
+			[
+				"unit",
+				"unitID"
+			],
+			[
+				"B",
+				"Blockberry"
+			],
+			[
+				"Monster",
+				"MonsterSave"
+			],
+			[
+				"uni",
+				"unitSave"
+			],
+			[
+				"Unit",
+				"UnitPrefabsFiller"
+			],
+			[
+				"prefa",
+				"prefabId"
+			],
+			[
+				"game",
+				"gameObject"
+			],
+			[
+				"distancem",
+				"distanceMax"
+			],
+			[
+				"distanceM",
+				"distanceMin"
+			],
+			[
+				"Get",
+				"GetComponent"
+			],
+			[
+				"is",
+				"isGrounded"
+			],
+			[
+				"target",
+				"targetUnit"
+			],
+			[
+				"gr",
+				"grown"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"seed",
+				"seedPrefabs"
+			],
+			[
+				"see",
+				"seedIndex"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"hit",
+				"hitHeight"
+			],
+			[
+				"to",
+				"toClose"
+			],
+			[
+				"Plant",
+				"Plant"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"Gam",
+				"gameObject"
+			],
+			[
+				"grow",
+				"growthStage"
+			],
+			[
+				"pro",
+				"produceTime"
+			],
+			[
+				"rest",
+				"restrictors"
+			],
+			[
+				"res",
+				"restricted"
+			],
+			[
+				"gar",
+				"gardenID"
+			],
+			[
+				"garde",
+				"gardenID"
+			],
+			[
+				"Set",
+				"SetActive"
+			],
+			[
+				"Beha",
+				"behaviors"
+			],
+			[
+				"rece",
+				"recentFileLoaded"
+			],
+			[
+				"garden",
+				"gardenID"
+			],
+			[
+				"Garden",
+				"GardenSave"
+			],
+			[
+				"gam",
+				"GameObject"
+			],
+			[
+				"blo",
+				"blockContainer"
+			],
+			[
+				"mai",
+				"mainUI"
+			],
+			[
+				"block",
+				"blocks"
+			],
+			[
+				"bl",
+				"blocks"
+			],
+			[
+				"save",
+				"saveGarden"
+			],
+			[
+				"wan",
+				"wandMenuOpen"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"Wet",
+				"Wetland"
+			],
+			[
+				"Bloc",
+				"BlockTypeGroups"
+			],
+			[
+				"Life",
+				"LifeMax"
+			],
+			[
+				"temp",
+				"temperature"
+			],
+			[
+				"Block",
+				"BlockType"
+			],
+			[
+				"type",
+				"typeGroup"
+			],
+			[
+				"tim",
+				"timeoutMax"
+			],
+			[
+				"timeou",
+				"timeoutMin"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"curren",
+				"currentState"
+			],
+			[
+				"Monste",
+				"MonsterState"
+			],
+			[
+				"state",
+				"stateDone"
+			],
+			[
+				"has",
+				"hasStep"
+			],
+			[
+				"get",
+				"GetComponent"
+			],
+			[
+				"move",
+				"movement"
+			],
+			[
+				"index",
+				"indexLeft"
+			],
+			[
+				"Too",
+				"ToolAction"
+			],
+			[
+				"cna",
+				"canSpawn"
+			],
+			[
+				"spaw",
+				"spawnPosition"
+			],
+			[
+				"Spawn",
+				"SpawnPoint"
+			],
+			[
+				"wand",
+				"wandShape"
+			],
+			[
+				"Ap",
+				"ApplyVelocity"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"Inpu",
+				"inputActions"
+			],
+			[
+				"exi",
+				"exitDictionary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/oii.sublime-project",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Garden.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Monsters/Base/Monster.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Actions/ActionLookAtCamera.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Monsters/Birb.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Actions/ActionLeave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/MonsterBehaviour.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Monsters/Base/MonsterSave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/WandTools.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Wand.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Enums/BlockType.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Menu/WheelMenu.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Monsters/Bomb.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Monsters/Worm.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Actions/ActionWander.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Actions/ActionJoin.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Actions/ActionTimeout.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/MonsterRestrictor.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/MonsterFactor.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/MonsterAction.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Factors/FactorTimeout.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Factors/FactorRepeat.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Restrictors/RestrictorWildOnly.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Plants/BlockberryPlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Plants/Base/Plant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Plants/SphFlowerPlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Plants/SquarerootPlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Base/Unit.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Seeds/Base/SeedSave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Plants/Base/PlantSave.cs",
+		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/ClientManager.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Base/UnitSave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Units/Seeds/Base/Seed.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/UnitSave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Unit.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/ProduceSave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seed.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/SeedSave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Monster.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plant.cs",
+		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/ExternalPlayer.cs",
+		"/C/Users/Femi/MIT/UROP/clevr/Assets/OVRUtils/OVR/Scripts/OVRManager.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/BlockberryProduce.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/SphFlowerProduce.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/SquarerootProduce.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterSave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/SquarerootSeed.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/SphFlowerSeed.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/BlockberrySeed.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Monsters/Worm.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Structures/SerializableQuaternion.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/UnitPrefabs.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/UnitPrefabsFiller.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/PanInputs.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/GardenSave.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/PanPrefabs.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/PanPrefabsFiller.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Monsters/Bomb.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Monsters/Birb.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/MonsterBehavior.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Prefabs.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Structures/SerializableVector3.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Structures/UnitySerializable.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Structures/Block.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/SphFlowerPlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/BlockberryPlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/SquarerootPlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/WandCamera.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/SetVersionText.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/GardenBoard.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants/LayerConstants.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Enums/ToolAction.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/EntityMover.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/EntityDrop.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterMover.cs",
+		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/InstructionsManager.cs",
+		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/SlamMaterialChanging/SlamMaterialSaver.cs",
+		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/IndexManager.cs",
+		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/SlamMaterialChanging/SlamMaterialChanger.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants/PanInputs.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants/InputConstants.cs",
+		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/SceneNavigate.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants/VersionConstants.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/SFlowerPlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/SFlowerProduce.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/SFlowerSeed.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/SpherePlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/SphereProduce.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/SphereSeed.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/TuliProduce.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/TuliSeed.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/TuliPlant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Enums/ToolType.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Menu/TitleMenu.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/Blockberry.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/GardenWild.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/Blockberry Plant.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Restrictors/NewBehaviourScript.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/MonssterRestrictor.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/TitleCamera.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Enums/GardenMode.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Cam.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MainMenuHandler.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Enums/GameMode.cs",
+		"/C/Users/Femi/OuterIsh/Pan/.gitignore",
+		"/C/Users/Femi/OuterIsh/EcoFactorio/Assets/Scripts/Enums/GameState.cs",
+		"/C/Users/Femi/MIT/PSets SeSp/CMS.611/purrfect/Assets/Scripts/ToyBall.cs",
+		"/C/Users/Femi/MIT/PSets SeSp/CMS.611/purrfect/Assets/Scripts/LightObject.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Shaders/Water.shader",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Shaders/Grass.shader",
+		"/C/Users/Femi/MIT/PSets SeSp/CMS.611/purrfect/Assets/Scripts/Key.cs",
+		"/C/Users/Femi/MIT/PSets SeSp/CMS.611/purrfect/Assets/Scripts/Player.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Monsters/Koy.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Monsters/Pika.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Factors/FactorRepeatWild.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/DisableOnPlay.cs",
+		"/C/Users/Femi/MIT/PSets SeSp/CMS.611/purrfect/Assets/Scripts/Cat.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants/Inputs.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants.cs",
+		"/C/Users/Femi/MIT/PSets SeSp/CMS.611/purrfect/Assets/Scripts/GameConstants.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Factors/FactorTimeoutWild.cs",
+		"/C/Users/Femi/MIT/PSets SeSp/CMS.611/purrfect/purrfect.sublime-project",
+		"/C/Users/Femi/MIT/UROP/clevr/clevr.sublime-project",
+		"/C/Users/Femi/MIT/PSets SeSp/CMS.611/CMS.611-Project-3/.gitignore",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/MonsterState.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Behaviors/BehaviorWander.cs",
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/MonsterAI/Behaviors/ActionTimeout.cs"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 149.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Oii.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
