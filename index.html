@@ -1,51 +1,65 @@
+<!doctype html>
 <html lang="en" ng-app="oiiApp">
+  <head>
+    <!-- AngularJS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
 
-	<head>
-		<meta charset="utf-8">
-		<link rel="stylesheet" href="css/main.css">
-		<link rel="stylesheet" href="css/page.css">
-		<link rel="stylesheet" href="css/stub_color.css">
-		<link rel="stylesheet" href="pages/secret/timer.css">
-		<script src="node_modules/angular/angular.min.js"></script>
-		<script src="node_modules/angular-route/angular-route.min.js"></script>
-		<script src="app.js"></script>
-		<base href="/">
-	</head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<body ng-controller="oiiController">
-		<div class='wrapper'>
-			<!-- Header -->
-			<div class='header'>
-				<div class='h_nav'>
-					<a href='/#!/' class='h_title'>Outer Ish Index</a>
-					<ul class='h_menu'>
-						<li class='h_menuItem'><a href='/#!/about' id='about'>About</a></li>
-						<li class='h_menuItem'><a href='/#!/projects' id='projects'>Projects</a></li>
-						<li class='h_menuItem'><a href='/#!/thoughts' id='thoughts'>Thoughts</a></li>
-						<li class='h_menuItem'><a href='/#!/collab' id='collab'>Collaborators</a></li>
-					</ul>
-				</div>
-				<div class='h_out'>
-					<a class='h_outItem' href='mailto:femi96@mit.edu' target="_blank" title="femi96@mit.edu">Email</a>
-					<a class='h_outItem' href='https://twitter.com/imef96' target="_blank" title="twitter.com/imef96">Twitter</a>
-					<a class='h_outItem' href='https://github.com/femi96' target="_blank" title="github.com/femi96">Github</a>
-				</div>
-			</div>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  
+    <!-- My CSS -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/content.css">
+    
+    <script src="app.js"></script>
+    <base href="/">
+  </head>
 
-			<!-- Wrapper -->
-			<div class='content'>
-				<div ng-view></div>
-			</div>
+  <body ng-controller="oiiController">
+    <div class="wrapper">
 
-			<!-- Footer -->
-			<div class='footer'>
-				<a href={{secret()}} class='f_divide'>---(^u^)---</a>
-				<div class='f_text'>
-					<div ng-repeat="item in quote">{{item}}</div>
-				</div>
-			</div>
-		</div>
+      <div class="nav">
+        <div class="float_left">
+          <h1 class='nav_title'>Femi Oladipupo</h1>
+          <nav><ul class='nav_menu'>
+            <li class='nav_menuItem'><a href='/#!/'>About</a></li>
+            <li class='nav_menuItem'><a href='/#!/projects'>Projects</a></li>
+            <li class='nav_menuItem'><a href='/#!/thoughts'>Thoughts</a></li>
+          </ul></nav>
+        </div>
+        <div class='nav_out'>
+          <a class='nav_outItem' href='mailto:femi96@mit.edu' target="_blank" title="femi96@mit.edu">Email</a>
+          <a class='nav_outItem' href='https://github.com/femi96' target="_blank" title="github.com/femi96">Github</a>
+          <a class='nav_outItem' href='https://twitter.com/imef96' target="_blank" title="twitter.com/imef96">Twitter</a>
+          <a class='nav_outItem' href='' target="_blank" title="Femi Oladipupo's Resume">Resume</a>
+        </div>
+      </div>
 
-	</body>
+      <div class="content">
+        <div ng-view></div>
+      </div>
 
+      <div class="footer">
+        <div class='foot_out'>
+          <a class='foot_outItem' href='mailto:femi96@mit.edu' target="_blank" title="femi96@mit.edu">Email</a>
+          <a class='foot_outItem' href='https://github.com/femi96' target="_blank" title="github.com/femi96">Github</a>
+          <a class='foot_outItem' href='https://twitter.com/imef96' target="_blank" title="twitter.com/imef96">Twitter</a>
+          <a class='foot_outItem' href='' target="_blank" title="Femi Oladipupo's Resume">Resume</a>
+        </div>
+        <div>Femi Oladipupo <span style='color:#828282'>©2018</span></div>
+      </div>
+    </div>
+
+  </body>
 </html>

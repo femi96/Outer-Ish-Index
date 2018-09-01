@@ -1,21 +1,23 @@
 <head>
-	<title>Outer Ish Index | Projects</title>
+  <title>Femi Oladipupo | Projects</title>
 </head>
+<!-- Projects -->
 
-<body>
-	<div class='c_title'>
-		<div class='c_t_title'>Projects</div>
-		<div class='c_t_sub'>Creations and Contributions</div>
-	</div>
-	
-	<!-- Projects -->
+<div class="title">
+  <h1 class="title_main">Projects</h1>
+  <div class="title_sub">projsdasdaence</div>
+</div>
 
-	<div class='c_stubs'>
-		<a class='c_stub' ng-repeat="item in stubProj" href={{item.link}} id={{item.id}}>
-			<div class='c_s_date'>{{item.date}}</div>
-			<div class='c_s_title'>{{item.title}}</div>
-			<div class='c_s_sub'>{{item.sub}}</div>
-			<div class='c_s_desc'>{{item.desc}}</div>
-		</a>
-	</div>
-</body>
+<div class='stubs'>
+  <a class='stub' ng-repeat="item in stubsProjects" href={{item.link}}>
+    <div class='stub_top'>
+      <div class='stub_left'>
+        <div class='stub_title'>{{item.title}}</div>
+        <div class='stub_subtitle'>{{item.sub}}</div>
+      </div>
+      <div class='stub_date'>{{item.date}}</div>
+    </div>
+    <div class='stub_desc'>{{item.desc}}</div>
+    <div class='stub_skills'>{{item.skills}}</div>
+  </a>
+</div>

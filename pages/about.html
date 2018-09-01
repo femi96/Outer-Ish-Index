@@ -1,87 +1,158 @@
 <head>
-	<title>Outer Ish Index | About</title>
+  <title>Femi Oladipupo</title>
 </head>
 
-<body>
-	<div class='c_title'>
-		<div class='c_t_title'>About</div>
-		<div class='c_t_sub'>Who am I?</div>
-	</div>
-	
-	<p class='c_para'>I’m Femi Oladipupo, an MIT Junior pursuing a Bachelor of Science in Engineering as Recommended by the Department of Mechanical Engineering (Course 2A) with a concentration in Computer Science (Course 6-3). In addition, I’m pursuing a minor in Comparative Media Studies (Course CMS).</p>
+<!-- About Me -->
 
-	<!-- Work -->
+<div class="title">
+  <h1 class="title_main">About Me</h1>
+  <div class="title_sub">About</div>
+</div>
 
-	<div class='c_stitle'>
-		<div class='c_st_title'>Work</div>
-		<div class='c_st_sub'>My dayman activities</div>
-	</div>
+<p class="paragraph">
+I’m Femi Oladipupo, an MIT Senior pursuing a Bachelor of Science in Computer Science and Engineering (Course 6-3) as well as a minor in Comparative Media Studies (Course CMS).
+</p>
+<p class="paragraph">
+I have about 7 years of programming experience. I started with amateur game development projects in high school, and continued in university through coursework and undergraduate research.
+</p>
 
-	<div class='c_tpara'>
-		<a class='c_tp_title' href='http://viral.media.mit.edu/' target="_blank">MIT Media Lab: Viral Communications</a>
-		<p class='c_tp_para'>During the summer of 2015, I began work as an undergraduate researcher at the MIT Media Lab. I was a member of the Viral Communications group as a part of MIT’s Undergraduate Research Opportunities Program. During that summer and the summer following, I worked on several projects within the group.</p>
-	</div>
+<!-- Work -->
 
-	<div class='c_stubs'>
-		<a class='c_stub' ng-repeat="item in stubWork" href={{item.link}}>
-			<div class='c_s_date'>{{item.date}}</div>
-			<div class='c_s_title'>{{item.title}}</div>
-			<div class='c_s_sub'>{{item.sub}}</div>
-			<div class='c_s_desc'>{{item.desc}}</div>
-		</a>
-	</div>
+<div class="title">
+  <h1 class="title_main">Work</h1>
+  <div class="title_sub">Professional Experience</div>
+</div>
 
-	<!-- Skills -->
+<div class='side_title'>MIT Scheller Teacher Education Program</div>
 
-	<div class='c_stitle'>
-		<div class='c_st_title'>Skills</div>
-		<div class='c_st_sub'>My dayman abilities</div>
-	</div>
+<div class='stubs'>
+  <a class='stub' ng-repeat="item in stubsStep" href={{item.link}}>
+    <div class='stub_top'>
+      <div class='stub_left'>
+        <div class='stub_title'>{{item.title}}</div>
+        <div class='stub_subtitle'>{{item.sub}}</div>
+      </div>
+      <div class='stub_date'>{{item.date}}</div>
+    </div>
+    <div class='stub_desc'>{{item.desc}}</div>
+    <div class='stub_skills'>{{item.skills}}</div>
+  </a>
+</div>
 
-	<div class='c_linklist'>
-		<div class='c_ll_title'>Program Proficiencies</div>
-		<ul class='c_ll_list'>
-			<li class='c_ll_item' ng-repeat="item in listProg"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
-		</ul>
-	</div>
+<div class='side_title'>MIT Media Lab: Viral Communications</div>
 
-	<div class='c_linklist'>
-		<div class='c_ll_title'>Language Proficiencies</div>
-		<ul class='c_ll_list'>
-			<li class='c_ll_item' ng-repeat="item in listLang"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
-		</ul>
-	</div>
+<div class='stubs'>
+  <a class='stub' ng-repeat="item in stubsViral" href={{item.link}}>
+    <div class='stub_top'>
+      <div class='stub_left'>
+        <div class='stub_title'>{{item.title}}</div>
+        <div class='stub_subtitle'>{{item.sub}}</div>
+      </div>
+      <div class='stub_date'>{{item.date}}</div>
+    </div>
+    <div class='stub_desc'>{{item.desc}}</div>
+    <div class='stub_skills'>{{item.skills}}</div>
+  </a>
+</div>
 
-	<div class='c_linklist'>
-		<div class='c_ll_title'>Frameworks &amp; Other Proficiencies</div>
-		<ul class='c_ll_list'>
-			<li class='c_ll_item' ng-repeat="item in listFram"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
-		</ul>
-	</div>
+<!-- Skills -->
 
-	<div class='c_stitle'>
-		<div class='c_st_title'>Courses</div>
-		<div class='c_st_sub'>Classes taken at MIT</div>
-	</div>
+<div class="title">
+  <h1 class="title_main">Skills</h1>
+  <div class="title_sub">Familiar w</div>
+</div>
 
-	<div class='c_linklist'>
-		<div class='c_ll_title'>Freshman Year</div>
-		<ul class='c_ll_list'>
-			<li class='c_ll_item' ng-repeat="item in listCourse1"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
-		</ul>
-	</div>
+<div style='display:block; overflow:auto; text-align:center;'>
+  <div class='columns3'>
+    <div class='side_title' style='margin-top:0px;'>Software</div>
+    <ul class='list'>
+      <li class='list_item' ng-repeat="item in software">
+        <a href={{item.link}} target="_blank">{{item.text}}</a>
+      </li>
+    </ul>
+  </div>
 
-	<div class='c_linklist'>
-		<div class='c_ll_title'>Sophomore Year</div>
-		<ul class='c_ll_list'>
-			<li class='c_ll_item' ng-repeat="item in listCourse2"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
-		</ul>
-	</div>
+  <div class='columns3'>
+    <div class='side_title' style='margin-top:0px;'>Languages</div>
+    <ul class='list'>
+      <li class='list_item' ng-repeat="item in languages">
+        <a href={{item.link}} target="_blank">{{item.text}}</a>
+      </li>
+    </ul>
+  </div>
 
-	<div class='c_linklist'>
-		<div class='c_ll_title'>Junior Year</div>
-		<ul class='c_ll_list'>
-			<li class='c_ll_item' ng-repeat="item in listCourse3"><a href={{item.link}} target="_blank">{{item.text}}</a></li>
-		</ul>
-	</div>
-</body>
+  <div class='columns3'>
+    <div class='side_title' style='margin-top:0px;'>Frameworks+</div>
+    <ul class='list'>
+      <li class='list_item' ng-repeat="item in frameworks">
+        <a href={{item.link}} target="_blank">{{item.text}}</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- Courses -->
+
+<div class="title">
+  <h1 class="title_main">Courses</h1>
+  <div class="title_sub">Classes taken at MIT</div>
+</div>
+
+<div style='display:block; overflow:auto;'>
+  <div class='columns3'>
+    <div class='side_title' style='margin-top:0px; text-align:center;'>1st Year</div>
+    <ul class='list' style='width:230px; margin:0px auto;'>
+      <li class='list_item' style='font-size:15px;' ng-repeat="item in courses1">
+        <a href=http://student.mit.edu/catalog/search.cgi?search={{item.number}} target="_blank" title={{item.text}}>
+          <span class='list_highlight'>{{item.number}}</span> {{item.text}}
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class='columns3'>
+    <div class='side_title' style='margin-top:0px; text-align:center;'>2nd Year</div>
+    <ul class='list' style='width:230px; margin:0px auto;'>
+      <li class='list_item' style='font-size:15px;' ng-repeat="item in courses2">
+        <a href=http://student.mit.edu/catalog/search.cgi?search={{item.number}} target="_blank" title={{item.text}}>
+          <span class='list_highlight'>{{item.number}}</span> {{item.text}}
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class='columns3'>
+    <div class='side_title' style='margin-top:0px; text-align:center;'>3rd Year</div>
+    <ul class='list' style='width:230px; margin:0px auto;'>
+      <li class='list_item' style='font-size:15px;' ng-repeat="item in courses3">
+        <a href=http://student.mit.edu/catalog/search.cgi?search={{item.number}} target="_blank" title={{item.text}}>
+          <span class='list_highlight'>{{item.number}}</span> {{item.text}}
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div style='display:block; overflow:auto;'>
+  <div class='columns2'>
+    <div class='side_title' style='margin-top:0px; text-align:center;'>4th Year</div>
+    <ul class='list' style='width:230px; margin:0px auto;'>
+      <li class='list_item' style='font-size:15px;' ng-repeat="item in courses4">
+        <a href=http://student.mit.edu/catalog/search.cgi?search={{item.number}} target="_blank" title={{item.text}}>
+          <span class='list_highlight'>{{item.number}}</span> {{item.text}}
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class='columns2'>
+    <div class='side_title' style='margin-top:0px; text-align:center;'>5th Year</div>
+    <ul class='list' style='width:230px; margin:0px auto;'>
+      <li class='list_item' style='font-size:15px;' ng-repeat="item in courses5">
+        <a href=http://student.mit.edu/catalog/search.cgi?search={{item.number}} target="_blank" title={{item.text}}>
+          <span class='list_highlight'>{{item.number}}</span> {{item.text}}
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
