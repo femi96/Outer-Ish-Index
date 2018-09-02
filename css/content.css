@@ -196,6 +196,7 @@
 }
 
 @media(max-width: 856px) {
+  .stub{margin: 5px 0px; padding: 8px 16px;}
   .stub_left{width: 100%; text-align: center;}
   .stub_date{width: 100%; text-align: center;}
 }

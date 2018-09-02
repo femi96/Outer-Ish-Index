@@ -374,11 +374,11 @@
 			}
 		},
 		{
-			"file": "/C/Users/Femi/OuterIsh/TempOII/css/hover_mod.css",
+			"file": "Oii.sublime-project",
 			"settings":
 			{
-				"buffer_size": 49,
-				"line_ending": "Windows"
+				"buffer_size": 393,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -450,18 +450,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index//css",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index//pages",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index//pages/projects",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index//pages/thoughts",
 		"/C/Users/Femi/OuterIsh/TempOII",
 		"/C/Users/Femi/OuterIsh/TempOII/css",
 		"/C/Users/Femi/OuterIsh/TempOII/pages",
-		"/C/Users/Femi/OuterIsh/TempOII/pages/projects"
+		"/C/Users/Femi/OuterIsh/TempOII/pages/projects",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index"
 	],
 	"file_history":
 	[
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/Oii.sublime-project",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts.html",
 		"/C/Users/Femi/OuterIsh/TempOII/app.js",
@@ -484,7 +481,6 @@
 		"/C/Users/Femi/OuterIsh/TempOII/pages/about.html",
 		"/C/Users/Femi/OuterIsh/TempOII/css/main.css",
 		"/C/Users/Femi/OuterIsh/TempOII/index.html",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/Oii.sublime-project",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/main.js",
 		"/C/Users/Femi/OuterIsh/TempOII/error.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/.gitattributes",
@@ -593,7 +589,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -654,7 +650,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -684,7 +680,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -714,43 +710,43 @@
 						"translation.y": 1935.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/Femi/OuterIsh/TempOII/css/hover_mod.css",
-					"semi_transient": true,
+					"file": "Oii.sublime-project",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 49,
+						"buffer_size": 393,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38,
-								38
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
