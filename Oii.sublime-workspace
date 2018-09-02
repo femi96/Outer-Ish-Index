@@ -374,11 +374,21 @@
 			}
 		},
 		{
-			"file": "Oii.sublime-project",
+			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 393,
-				"line_ending": "Unix"
+				"buffer_size": 2926,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/content.css",
+			"settings":
+			{
+				"buffer_size": 3259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -450,11 +460,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Femi/OuterIsh/TempOII",
-		"/C/Users/Femi/OuterIsh/TempOII/css",
-		"/C/Users/Femi/OuterIsh/TempOII/pages",
-		"/C/Users/Femi/OuterIsh/TempOII/pages/projects",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index"
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css"
 	],
 	"file_history":
 	[
@@ -650,7 +657,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -680,7 +687,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -696,8 +703,8 @@
 						"selection":
 						[
 							[
-								1739,
-								1739
+								1226,
+								1226
 							]
 						],
 						"settings":
@@ -707,46 +714,78 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1935.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 2,
-					"file": "Oii.sublime-project",
+					"file": "css/main.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 393,
+						"buffer_size": 2926,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								955,
+								955
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 360.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/content.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2911,
+								2911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2610.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -828,9 +867,9 @@
 		"selected_items":
 		[
 		],
-		"width": 592.0
+		"width": 402.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
