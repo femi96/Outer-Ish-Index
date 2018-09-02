@@ -11,49 +11,49 @@
         skills:'D3 · HTML · Javascript · CSS · NPM',
         id:'datatap',
         link:'/#!/projects/datatap',
-        desc:'During the summer of 2015, I developed an interactive visual data display for the Earth Tapestry project. Earth Tapestry is a project by Kevin Hu and Travis Rich done in collaboration with a team at Carnegie Mellon. It was built on top of Quantify, and the data display was developed to expand to other Quantify projects. The project was launched as Data Tapestry by the MIT Media Lab.'},
+        desc:"Developed an interactive visual data display for Earth Tapestry called Data Tapestry. Earth Tapestry is a project built on the QUANTIFY framework that crowdsources and assigns quantitative qualities to wonders around the globe. Data Tapestry pulls from this data, displaying it on a world map in a way that's visually appealing and informative."},
       pubpub2015: {
         title:'PubPub (2015)',
         sub:'Open, Continuous Publishing',
         date:'June-August 2015',
         skills:'AngularJS · HTML · Javascript · CSS · NPM',
         link:'/#!/projects/pubpub',
-        desc:'During the summer of 2015, I contributed to the development of Viral Communication’s project, “PubPub.” PubPub is an open source academic publishing platform. The contributions developed included a frontend file uploading interface and a text editor, both using AngularJS.'},
+        desc:'Developed a front-end file management system for PubPub. This system was used to upload research data sets alongside papers and articles. Additionally, contributed features to the PubPub text editor.'},
       pubpub2016: {
         title:'PubPub (2016)',
         sub:'Open, Continuous Publishing',
         date:'June-August 2016',
         skills:'React · Redux · Immutable · HTML · Javascript · CSS · NPM',
         link:'/#!/projects/pubpub',
-        desc:'During the summer of 2016, I contributed to the development of Viral Communication’s project, “PubPub.” PubPub is an open source academic publishing platform. The contributions developed included a backend analytics route and a front end visualization, both using D3, React, Redux, and Immutable.'},
+        desc:'Developed back-end analytics routes and front-end data visualizations for Viral Communication’s PubPub. PubPub is an open-source academic publishing platform, similar to Wikipedia or Medium, but designed for research with data-driven functionality. The analytics were used to track post engagement and informed the design of the project.'},
       gameblox: {
         title:'Gameblox',
         sub:'Playful, Powerful Learning',
         date:'June-August 2017',
         skills:'React · Redux · PouchDB · HTML · Javascript · CSS · NPM',
         link:'/#!/projects/gameblox',
-        desc:'During the summers of 2017, I worked on the Gameblox project with the MIT Scheller Teacher Education Program Lab. Gameblox is a block-based programming encironment, developed by the STEP Lab. The environment is designed for making games online, and intended for classroom use. The novice friendly programming allows for students and teachers alike to create games and enhance the learning experience.'},
+        desc:'Developed live, multi-user collaboration for STEP Lab’s Gameblox. Gameblox is a block-based programming environment, designed for making games online. The live collaboration allows students and teachers to work together, simultaneously on a single project.'},
       clevr: {
         title:'Clevr',
-        sub:'collaboration',
+        sub:'Collaborative Learning Experiences in Virtual Reality',
         date:'January 2018-Present',
-        skills:'Unity3D · C# · Cg · Blender',
+        skills:'Unity3D · OculusVR · C# · Cg · Blender',
         link:'/#!/projects/clevr',
-        desc:'xxxxxxxxxxxxxxxxx'},
+        desc:'Developed a 3D cell environment, with navigation tools and network functionality for STEP Lab’s CLEVR. CLEVR is a project designed to create learning experience in virtual reality, supported by Oculus and the MIT GameLab. The unique affordances of VR have helped to dispel some of the misconceptions about molecular biology, while the networking capabilities have improved the project’s viability as a classroom tool.'},
       pan: {
         title:'Gardens of Pan',
-        sub:'subtitle',
+        sub:'Simulated Monster Gardens',
         date:'February 2018-Present',
         skills:'Unity3D · C# · Blender',
         link:'/#!/projects/pan',
-        desc:'xxxxxxxxxxxxxxxxx'},
+        desc:'Designed and developed a video game based around creating and managing a garden full of monsters. The game features multiple species of monsters, each with their own unique behaviors, as well plants, produce, and elemental terrain. The game explores concepts of ecology and synergy in a uniquely entertaining way.'},
       modulecg: {
         title:'ModuleCG',
         sub:'An Action-Programming Card Game',
         date:'December 2015',
         skills:'Google Drive',
         link:'/#!/projects/module',
-        desc:'During the winter of 2015, I participated in a tabletop game jam known as Paper Jam 4. The challenge was to make a printable game over a 10 day period with one of the given sets of mechanics, themes, goals, and constraints. The project is to be revisited soon.'},
+        desc:'Designed an action programming card game for an online tabletop game jam known as Paper Jam 4. The challenge was to make a printable game over a 10 day period with one of the given sets of mechanics, themes, goals, and constraints.'},
     };
 
     $scope.stubsViral = [
@@ -204,6 +204,7 @@
     {text:'CSS',link:'https://en.wikipedia.org/wiki/Cascading_Style_Sheets'}];
 
     $scope.frameworks = [
+    {text:'OculusVR',link:'https://www.oculus.com/'},
     {text:'Node',link:'https://nodejs.org/'},
     {text:'NPM',link:'https://www.npmjs.com/'},
     {text:'React',link:'https://facebook.github.io/react/'},
