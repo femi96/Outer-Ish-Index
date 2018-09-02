@@ -46,10 +46,6 @@ a:hover{
   .wrapper{width: calc(100% - 66px)}
 }
 
-.float_left{
-  float: left;
-}
-
 
 /* Masthead
 ================== */
@@ -85,6 +81,10 @@ a:hover{
   position: fixed;
   top: 0px;
   width: 880px;
+}
+
+.nav_left{
+  float: left;
 }
 
 .nav_title{
@@ -129,8 +129,9 @@ a:hover{
 
 @media(max-width: 900px) {
   .nav{text-align: center; width: 100%;}
-  .nav_menu{font-size: 20px;}
-  .nav_menuItem{display: inline-block; margin: 0px 8px 0px 8px;}
+  .nav_left{width: 100%;}
+  .nav_menu{}
+  .nav_menuItem{display: inline-block; margin: 0px 4px;}
   .nav_out{display: inline-block; text-align: center; width: 100%; margin-top: 30px; font-size: 20px;}
 }
 
@@ -160,4 +161,16 @@ a:hover{
 
 .foot_outItem{
   margin: 0px 12px;
+}
+
+.footer a{
+  padding: 1px 4px;
+  border-radius: 4px;
+  border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: #f9f9f9;
+}
+
+.footer a:hover{
+  border-color: #828282;
 }
