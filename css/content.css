@@ -218,3 +218,11 @@
   .columns3{width: 100%; float: left;}
   .columns2{width: 100%; float: left;}
 }
+
+/* Images
+================== */
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

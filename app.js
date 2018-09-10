@@ -235,6 +235,7 @@
 
     .when("/thoughts/comics", { templateUrl : "pages/thoughts/comics.html" })
     .when("/thoughts/whatisagame", { templateUrl : "pages/thoughts/whatisagame.html" })
+    .when("/thoughts/representation", { templateUrl : "pages/thoughts/representation.html" })
     
     .otherwise({redirectTo:'/'});
   });

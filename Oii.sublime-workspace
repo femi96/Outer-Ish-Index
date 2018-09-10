@@ -356,37 +356,10 @@
 	"buffers":
 	[
 		{
-			"file": "app.js",
+			"file": "pages/thoughts/representation.html",
 			"settings":
 			{
-				"buffer_size": 10642,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pages/about.html",
-			"settings":
-			{
-				"buffer_size": 5446,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 2926,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/content.css",
-			"settings":
-			{
-				"buffer_size": 3259,
+				"buffer_size": 3582,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -461,16 +434,22 @@
 	"expanded_folders":
 	[
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css"
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts"
 	],
 	"file_history":
 	[
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts/comics.html",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/content.css",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/main.css",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/about.html",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/app.js",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/Oii.sublime-project",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts.html",
 		"/C/Users/Femi/OuterIsh/TempOII/app.js",
 		"/C/Users/Femi/OuterIsh/TempOII/pages/projects.html",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/app.js",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects/pan.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects/clevr.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects/gameblox.html",
@@ -479,11 +458,7 @@
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects/conspiro.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects/pubpub.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/index.html",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/content.css",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/main.css",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/about.html",
 		"/C/Users/Femi/OuterIsh/TempOII/css/page.css",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts/comics.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts/whatisagame.html",
 		"/C/Users/Femi/OuterIsh/TempOII/pages/about.html",
 		"/C/Users/Femi/OuterIsh/TempOII/css/main.css",
@@ -657,135 +632,45 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app.js",
+					"file": "pages/thoughts/representation.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10642,
+						"buffer_size": 3582,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								370,
-								370
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pages/about.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5446,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1226,
-								1226
+								3569,
+								3569
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 133.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 2,
-					"file": "css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2926,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								955,
-								955
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 360.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "css/content.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3259,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2911,
-								2911
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2610.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -817,7 +702,7 @@
 		"cols":
 		[
 			0.0,
-			0.602167182663,
+			0.814949832398,
 			1.0
 		],
 		"rows":
@@ -869,7 +754,7 @@
 		],
 		"width": 402.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
