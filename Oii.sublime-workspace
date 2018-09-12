@@ -356,29 +356,19 @@
 	"buffers":
 	[
 		{
-			"file": "pages/thoughts/representation.html",
-			"settings":
-			{
-				"buffer_size": 15851,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "app.js",
 			"settings":
 			{
-				"buffer_size": 10736,
+				"buffer_size": 11069,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "css/content.css",
+			"file": "/C/Users/Femi/MIT/PSets SuFa/6.009 LA/Lab 02/resources/names.json",
 			"settings":
 			{
-				"buffer_size": 3363,
-				"encoding": "UTF-8",
+				"buffer_size": 917488,
 				"line_ending": "Windows"
 			}
 		}
@@ -458,9 +448,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/content.css",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts/whatisagame.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts/comics.html",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/content.css",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/main.css",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/about.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/app.js",
@@ -589,7 +579,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -652,59 +642,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/thoughts/representation.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15851,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5536,
-								5536
-							],
-							[
-								7390,
-								7390
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1434.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10736,
+						"buffer_size": 11069,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10343,
-								10343
+								4547,
+								4547
 							]
 						],
 						"settings":
@@ -714,48 +669,45 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3585.0,
+						"translation.y": 987.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 2,
-					"file": "css/content.css",
+					"buffer": 1,
+					"file": "/C/Users/Femi/MIT/PSets SuFa/6.009 LA/Lab 02/resources/names.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3363,
+						"buffer_size": 917488,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3092,
-								3092
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2971.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -787,7 +739,7 @@
 		"cols":
 		[
 			0.0,
-			0.571299785361,
+			0.552210724365,
 			1.0
 		],
 		"rows":
