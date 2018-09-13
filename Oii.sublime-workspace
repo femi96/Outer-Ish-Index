@@ -356,19 +356,11 @@
 	"buffers":
 	[
 		{
-			"file": "app.js",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 11069,
+				"buffer_size": 3317,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Femi/MIT/PSets SuFa/6.009 LA/Lab 02/resources/names.json",
-			"settings":
-			{
-				"buffer_size": 917488,
 				"line_ending": "Windows"
 			}
 		}
@@ -441,19 +433,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts"
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index"
 	],
 	"file_history":
 	[
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/index.html",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/app.js",
+		"/C/Users/Femi/MIT/PSets SuFa/6.009 LA/Lab 02/resources/names.json",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/content.css",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts/whatisagame.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts/comics.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/main.css",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/about.html",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/app.js",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/Oii.sublime-project",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts.html",
@@ -466,7 +457,6 @@
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects/datatap.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects/conspiro.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/projects/pubpub.html",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/index.html",
 		"/C/Users/Femi/OuterIsh/TempOII/css/page.css",
 		"/C/Users/Femi/OuterIsh/TempOII/pages/about.html",
 		"/C/Users/Femi/OuterIsh/TempOII/css/main.css",
@@ -574,12 +564,11 @@
 		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/TuliProduce.cs",
 		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/TuliSeed.cs",
 		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/TuliPlant.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Enums/ToolType.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Menu/TitleMenu.cs"
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Enums/ToolType.cs"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -642,62 +631,34 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app.js",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11069,
+						"buffer_size": 3317,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4547,
-								4547
+								3120,
+								3120
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 987.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Femi/MIT/PSets SuFa/6.009 LA/Lab 02/resources/names.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 917488,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 392.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -791,7 +752,7 @@
 		],
 		"width": 356.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
