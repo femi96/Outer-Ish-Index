@@ -80,7 +80,7 @@
       sub:'A Brief Examination of the Growth of Social Representation in Video Games',
       date: 'March 2017',
       link: '/#!/thoughts/representation',
-      desc:'A look at representation in three games and gaming as a whole. Written for CMS.701, Current Debates in Media.'},
+      desc:'A look at representation in three games and gaming as a whole. Written for CMS.701, Current Debates in Media, within the context of discussion about how fan culture shapes and creates media.'},
     {title: '“What is a Game?”',
       sub:'Multi-Level Understanding of Games as Media',
       date: 'November 2016',
