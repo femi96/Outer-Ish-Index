@@ -356,12 +356,12 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/README.txt",
 			"settings":
 			{
-				"buffer_size": 3317,
+				"buffer_size": 1269,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -437,6 +437,14 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/spider.swp",
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/longbez.swp",
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/weird.swp",
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/smile.swp",
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/core.swp",
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/weirder.swp",
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/florus.swp",
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/wineglass.swp",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/index.html",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/app.js",
 		"/C/Users/Femi/MIT/PSets SuFa/6.009 LA/Lab 02/resources/names.json",
@@ -556,25 +564,18 @@
 		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/SceneNavigate.cs",
 		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants/VersionConstants.cs",
 		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/SFlowerPlant.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/SFlowerProduce.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/SFlowerSeed.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/SpherePlant.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/SphereProduce.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/SphereSeed.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/TuliProduce.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Seeds/TuliSeed.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/TuliPlant.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Enums/ToolType.cs"
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/SFlowerProduce.cs"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
 		"height": 149.0,
 		"where_history":
 		[
+			"C:\\Users\\Femi\\MIT\\PSets SuFa\\6.837\\HW1\\swp",
 			""
 		]
 	},
@@ -583,6 +584,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"1.0",
+			"srev",
 			"img",
 			"blank\">",
 			"float_left",
@@ -636,29 +639,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/README.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3317,
+						"buffer_size": 1269,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3120,
-								3120
+								1215,
+								1215
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 392.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -700,7 +701,7 @@
 		"cols":
 		[
 			0.0,
-			0.552210724365,
+			0.949200376294,
 			1.0
 		],
 		"rows":
