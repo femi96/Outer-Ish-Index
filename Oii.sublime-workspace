@@ -355,15 +355,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/README.txt",
-			"settings":
-			{
-				"buffer_size": 1269,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -433,10 +424,14 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index"
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages"
 	],
 	"file_history":
 	[
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/app.js",
+		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/index.html",
+		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/README.txt",
 		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/spider.swp",
 		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/longbez.swp",
 		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/weird.swp",
@@ -445,8 +440,6 @@
 		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/weirder.swp",
 		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/florus.swp",
 		"/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/swp/wineglass.swp",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/index.html",
-		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/app.js",
 		"/C/Users/Femi/MIT/PSets SuFa/6.009 LA/Lab 02/resources/names.json",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/css/content.css",
 		"/C/Users/Femi/OuterIsh/Outer-Ish-Index/pages/thoughts/whatisagame.html",
@@ -563,8 +556,7 @@
 		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants/InputConstants.cs",
 		"/C/Users/Femi/MIT/UROP/clevr/Assets/Scripts/SceneNavigate.cs",
 		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Constants/VersionConstants.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/SFlowerPlant.cs",
-		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Produce/SFlowerProduce.cs"
+		"/C/Users/Femi/OuterIsh/Pan/Assets/Scripts/Plants/SFlowerPlant.cs"
 	],
 	"find":
 	{
@@ -634,37 +626,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/Femi/MIT/PSets SuFa/6.837/HW1/README.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1269,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1215,
-								1215
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		},
 		{
